@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactJuan.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reactJuan.github.io/static/js/main.51cc9ecf.chunk.js",
+    "main.js.map": "/reactJuan.github.io/static/js/main.51cc9ecf.chunk.js.map",
+    "runtime-main.js": "/reactJuan.github.io/static/js/runtime-main.5920d0ee.js",
+    "runtime-main.js.map": "/reactJuan.github.io/static/js/runtime-main.5920d0ee.js.map",
+    "static/css/2.93bfb352.chunk.css": "/reactJuan.github.io/static/css/2.93bfb352.chunk.css",
+    "static/js/2.1876141c.chunk.js": "/reactJuan.github.io/static/js/2.1876141c.chunk.js",
+    "static/js/2.1876141c.chunk.js.map": "/reactJuan.github.io/static/js/2.1876141c.chunk.js.map",
+    "index.html": "/reactJuan.github.io/index.html",
+    "precache-manifest.41f3400d7f7f086cc6d40a1c56d22e47.js": "/reactJuan.github.io/precache-manifest.41f3400d7f7f086cc6d40a1c56d22e47.js",
+    "service-worker.js": "/reactJuan.github.io/service-worker.js",
+    "static/css/2.93bfb352.chunk.css.map": "/reactJuan.github.io/static/css/2.93bfb352.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reactJuan.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1876141c.chunk.js.LICENSE.txt": "/reactJuan.github.io/static/js/2.1876141c.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/reactJuan.github.io/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/reactJuan.github.io/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/reactJuan.github.io/static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5920d0ee.js",
+    "static/css/2.93bfb352.chunk.css",
+    "static/js/2.1876141c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.51cc9ecf.chunk.js"
+  ]
+}
